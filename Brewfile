@@ -22,5 +22,4 @@ brew "travis"
 brew "yarn"
 brew "z"
 brew "zsh"
-cask "buttercup"
 
